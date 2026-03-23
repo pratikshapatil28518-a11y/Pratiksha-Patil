@@ -1,6 +1,6 @@
 # Pratiksha-Patil
-Assignment 1
-# Program to add two numbers
+Assignment 2
+1
 
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
@@ -13,7 +13,7 @@ Enter first number: 10
 Enter second number: 20
 Addition of two numbers is: 30
 
-# Declaring variables
+2
 
 a = 10
 b = 5.5
@@ -30,7 +30,7 @@ Type of b: <class 'float'>
 Type of c: <class 'str'>
 Type of d: <class 'bool'>
 
-# Type casting example
+3
 
 a = "10"
 
@@ -48,7 +48,7 @@ Type of a: <class 'str'>
 Value after casting: 10
 Type after casting: <class 'int'>
 
-# Logical operators example
+4
 
 a = True
 b = False
