@@ -8,3 +8,7 @@ b = int(input("Enter second number: "))
 sum = a + b
 
 print("Addition of two numbers is:", sum)
+ OUTPUT 
+Enter first number: 10
+Enter second number: 20
+Addition of two numbers is: 30
