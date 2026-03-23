@@ -33,8 +33,6 @@ Type of d: <class 'bool'>
 3
 
 a = "10"
-
-# converting string to integer
 b = int(a)
 
 print("Value of a:", a)
