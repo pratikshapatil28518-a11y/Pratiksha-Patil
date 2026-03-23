@@ -12,3 +12,55 @@ print("Addition of two numbers is:", sum)
 Enter first number: 10
 Enter second number: 20
 Addition of two numbers is: 30
+
+# Declaring variables
+
+a = 10
+b = 5.5
+c = "Python"
+d = True
+
+print("Type of a:", type(a))
+print("Type of b:", type(b))
+print("Type of c:", type(c))
+print("Type of d:", type(d))
+OUTPUT 
+Type of a: <class 'int'>
+Type of b: <class 'float'>
+Type of c: <class 'str'>
+Type of d: <class 'bool'>
+
+# Type casting example
+
+a = "10"
+
+# converting string to integer
+b = int(a)
+
+print("Value of a:", a)
+print("Type of a:", type(a))
+
+print("Value after casting:", b)
+print("Type after casting:", type(b))
+OUTPUT 
+Value of a: 10
+Type of a: <class 'str'>
+Value after casting: 10
+Type after casting: <class 'int'>
+
+# Logical operators example
+
+a = True
+b = False
+
+print("a AND b =", a and b)
+print("a OR b =", a or b)
+print("NOT a =", not a)
+OUTPUT 
+a AND b = False
+a OR b = True
+NOT a = False
+
+
+
+
