@@ -10,6 +10,7 @@ sum = a + b
 print("Addition of two numbers is:", sum)
   
 OUTPUT 
+
 Enter first number: 10
 Enter second number: 20
 Addition of two numbers is: 30
@@ -27,6 +28,7 @@ print("Type of c:", type(c))
 print("Type of d:", type(d))
 
 OUTPUT 
+
 Type of a: <class 'int'>
 Type of b: <class 'float'>
 Type of c: <class 'str'>
@@ -44,6 +46,7 @@ print("Value after casting:", b)
 print("Type after casting:", type(b))
 
 OUTPUT 
+
 Value of a: 10
 Type of a: <class 'str'>
 Value after casting: 10
@@ -59,6 +62,7 @@ print("a OR b =", a or b)
 print("NOT a =", not a)
 
 OUTPUT 
+
 a AND b = False
 a OR b = True
 NOT a = False
